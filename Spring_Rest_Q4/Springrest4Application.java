@@ -1,4 +1,4 @@
-package Question4;
+package Spring_Rest_Q4;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
